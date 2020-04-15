@@ -1,0 +1,23 @@
+.blog-post .readmore{
+    float: right;
+    margin: 20px;
+    background: lightslategrey;
+    color: honeydew;
+    padding: 5px 10px;
+    text-decoration: none;
+
+}
+
+.blog-post .readmore:hover{
+    background: lightseagreen;
+}
+
+form > button>{
+    margin-bottom: 50px;
+}
+
+@media (max-width:768px){
+    form > button>{
+        margin-bottom: 50px;
+    }
+}
